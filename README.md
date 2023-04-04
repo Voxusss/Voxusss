@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi!
 
-<!--
-**Voxusss/Voxusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Antoine, currently enrolled in a Comp. Sci. class looking to be a software engineer! Here you'll find the projects I worked on that are in a "viewable" state. Most projects I did however are not in this state and so not available on here,  but I still learned a lot doing them!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+
+[Portfolio](https://github.com/Voxusss/voxusss.github.io)
+
+[VHTools (Discontinued)](https://github.com/Voxusss/VHTools)
+
+## Smol things mainly for class
+
+[Monotolia](https://github.com/Voxusss/Monotolia)
+
+[MilitaryGame](https://github.com/Voxusss/ProjetJeuMilitaire)
+
+
